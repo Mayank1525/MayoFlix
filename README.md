@@ -24,18 +24,6 @@ MayoFlix is a machine learning–driven movie recommendation system designed to 
 
 ---
 
-## 📂 Repository Structure
-
-MayoFlix/
-│
-├── app.py                      # Streamlit application entry point
-├── movie_dict.pkl              # Processed movie dataset
-├── similarity_small.pkl        # Precomputed similarity matrix
-├── requirements.txt            # Project dependencies
-└── README.md                   # Project documentation
-
----
-
 ## ⚙️ System Workflow
 
 1. Raw movie metadata is processed and transformed using NLP techniques
